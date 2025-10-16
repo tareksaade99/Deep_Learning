@@ -1,11 +1,11 @@
 # Deep Learning Course – Group Projects
 
 This folder contains a collection of **group projects** completed as part of the **Deep Learning course**.  
-Each project explores a different application of modern deep learning techniques, combining theoretical understanding with practical implementation.
+Each project applies deep learning methods to real-world data, combining theory, implementation, and analysis.
 
 The projects cover areas such as:
-- **Natural Language Processing (NLP)** – tweet sentiment classification using traditional and transformer-based models  
-- **Model interpretability** – identifying sentiment-relevant words through attention and gradient-based methods  
-- **Comparative evaluation** – analyzing performance, computational efficiency, and limitations of different approaches  
+- **Natural Language Processing (NLP):** tweet sentiment classification and identification of sentiment-relevant words using traditional and transformer-based models  
+- **Computer Vision:** cactus detection from images using convolutional neural networks (CNNs)  
+- **Audio Analysis:** anomaly detection in machine sounds through deep feature extraction and classification models  
 
-These works reflect collaborative experimentation, hands-on learning, and critical analysis of deep learning methods applied to real-world data.
+These works demonstrate teamwork, experimentation, and practical understanding of how deep learning techniques can be adapted across diverse domains.
